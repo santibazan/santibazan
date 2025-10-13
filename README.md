@@ -6,10 +6,11 @@
 
 ## About Me :
 
-- 🏢 I am currently studing a **AI Engineer** at [Universidad Tecnologica Nacional](https://www.frd.utn.edu.ar/)
-- 🎓 Programming technician studies in [Universidad Tecnologica Nacional](https://www4.frm.utn.edu.ar/)
-- 🏡'Lives in **Mendoza, Argentina**
-- ⚡ **Fun Facts** : 🏉 ⛰️ ⛷️ 
+- 🎓 I have a degree as a **Programming Technician** from **[Universidad Tecnologica Nacional](https://www.frd.utn.edu.ar/)**.  
+- 🤖 I’m currently pursuing a **Postgraduate Degree in Artificial Intelligence, Data Science, and Machine Learning**.  
+- 🏡 Based in **Mendoza, Argentina**.  
+- ⚡ Fun Facts: 🏉 Rugby player | ☕ Coffee lover | 💻 Passionate about tech and innovation.
+
 
 <br>
 
